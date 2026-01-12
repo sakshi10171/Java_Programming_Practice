@@ -5,22 +5,29 @@ Java programming fundamentals.
 
 ---
 
-## Topics Covered
+# Java Programming Practice
+
+##  Topics Covered
 - Java basics
 - Input and Output
 - Conditional statements
 - Scanner class
 - Arithmetic operations
+- Loops
 
 ---
 
-##  Programs Included
+## Programs Included
 
-| File Name            | Description |
-|----------            |------------ |
-| HelloWorld.java      | Prints "Hello, World!" 
-| SumTwoNumbers.java   | Calculates sum of two numbers 
-| EvenOdd.java         | Checks whether a number is even or odd 
+| File Name             | Description |
+|----------             |------------ |
+| HelloWorld.java       | Prints "Hello, World!" |
+| SumTwoNumbers.java    | Calculates sum of two numbers |
+| EvenOdd.java          | Checks whether a number is even or odd |
+| PrimeNumber.java      | Checks whether a number is prime |
+| PalindromeNumber.java | Checks whether a number is palindrome |
 
-Author
+---
+
+## 👩‍💻 Author
 **Sakshi Babar**
