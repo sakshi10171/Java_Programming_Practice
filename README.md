@@ -26,6 +26,9 @@ Java programming fundamentals.
 | EvenOdd.java          | Checks whether a number is even or odd |
 | PrimeNumber.java      | Checks whether a number is prime |
 | PalindromeNumber.java | Checks whether a number is palindrome |
+| Factorial.java        | Calculate factorial of a number |
+| FibonnaciSeries.java  | Print the fibonnaci series of a number |
+| ReverseNumber.java    | Print the reverse of a number|
 
 ---
 
