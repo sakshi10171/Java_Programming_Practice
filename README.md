@@ -29,6 +29,9 @@ Java programming fundamentals.
 | Factorial.java        | Calculate factorial of a number |
 | FibonnaciSeries.java  | Print the fibonnaci series of a number |
 | ReverseNumber.java    | Print the reverse of a number|
+| SumOfDigits.java      | Print Sum of digits of number|
+| LargestOfThree.java   | Find largest of three numbers|
+| LeapYear.java         | Find year is leap year or not |
 
 ---
 
