@@ -15,6 +15,11 @@ These programs help in understanding array operations and logic building in Java
 | SmallestElementArray.java | Finds the smallest element in an array |
 | LinearSearch.java | Searches an element in an array using linear search |
 | AverageArray.java | Calculates the average of array elements |
+| SecondLargest.java | Finds the second largest element in an array |
+| BubbleSort.java | Sorts array using bubble sort |
+| SearchElementIndex.java | Searches element and returns its index |
+| RemoveDuplicates.java | Removes duplicate elements from array |
+| ReverseArray2.java | Reverses array using another array |
 
 ---
 
