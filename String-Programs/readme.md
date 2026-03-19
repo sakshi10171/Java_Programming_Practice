@@ -19,6 +19,7 @@ These programs help in understanding string manipulation and improve logic-build
 | CountWords.java | Counts number of words in a string |
 | AnagramString.java | Checks whether two strings are anagrams |
 | CharacterFrequency.java | Finds frequency of each character in a string |
+| DuplicateCharacters.java | Finds duplicate character from a string |
 
 ---
 
