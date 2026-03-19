@@ -17,6 +17,8 @@ These programs help in understanding string manipulation and improve logic-build
 | RemoveSpaces.java | Removes spaces from a string |
 | CompareStrings.java | Compares two strings without using equals method |
 | CountWords.java | Counts number of words in a string |
+| AnagramString.java | Checks whether two strings are anagrams |
+| CharacterFrequency.java | Finds frequency of each character in a string |
 
 ---
 
