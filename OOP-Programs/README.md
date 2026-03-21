@@ -1,7 +1,7 @@
 # Java OOP Programs
 
-This folder contains **basic Object-Oriented Programming (OOP) programs in Java**.  
-These programs help in understanding core OOP concepts used in Java.
+This folder contains **basic Object-Oriented Programming (OOP) concepts in Java**.
+These programs demonstrate core OOP principles used in real-world applications.
 
 ---
 
@@ -9,15 +9,28 @@ These programs help in understanding core OOP concepts used in Java.
 
 | File Name | Description |
 |----------|-------------|
-| ClassAndObject.java | Demonstrates class and object creation |
-| ConstructorExample.java | Shows how constructors are used |
-| InheritanceExample.java | Demonstrates inheritance concept |
-| MethodOverloading.java | Shows polymorphism using method overloading |
+| ClassAndObject.java | Demonstrates creation of class and object |
+| Constructor.java | Shows how constructors are used in Java |
+| Inheritance.java | Demonstrates inheritance between classes |
+| Encapsulation.java | Shows data hiding using private variables |
+| Abstraction.java | Demonstrates abstraction using abstract class |
+| Interface.java | Shows implementation of interface |
+| MethodOverloading.java | Demonstrates compile-time polymorphism |
+| MethodOverriding.java | Demonstrates runtime polymorphism |
 
 ---
 
 ## 📌 Concepts Covered
-- Class and Object
-- Constructor
-- Inheritance
-- Polymorphism
+- Class and Object  
+- Constructor  
+- Inheritance  
+- Encapsulation  
+- Abstraction  
+- Interface  
+- Polymorphism (Overloading & Overriding)  
+
+---
+
+## ▶️ How to Run
+
+1. Compile the program
