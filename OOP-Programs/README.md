@@ -31,6 +31,4 @@ These programs demonstrate core OOP principles used in real-world applications.
 
 ---
 
-## ▶️ How to Run
 
-1. Compile the program
