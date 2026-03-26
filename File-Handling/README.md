@@ -7,6 +7,7 @@ These programs cover basic to intermediate file operations such as reading, writ
 
 ## 📂 Programs Included
 
+
 | File Name | Description |
 |----------|-------------|
 | WriteFile.java | Writes data to a file |
@@ -17,6 +18,11 @@ These programs cover basic to intermediate file operations such as reading, writ
 | LineCountFile.java | Counts number of lines in a file |
 | SearchWordFile.java | Searches a word in a file |
 | DeleteFile.java | Deletes a file |
+| CreateFile.java | Creates a new file |
+| FileInfo.java | Displays file information |
+| RenameFile.java | Renames a file |
+| CheckFileExists.java | Checks if file exists |
+| ReadFileBuffered.java | Reads file using BufferedReader |
 
 ---
 
