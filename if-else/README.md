@@ -4,7 +4,7 @@ This repository contains basic Java programs focused on **if-else logic building
 
 ---
 
-## 📂 Programs Included (In Sequence)
+## 📂 Programs Included
 
 ### 🔹 1. CharacterType.java
 
