@@ -1,19 +1,14 @@
 # 🧠 Java If-Else Logic Programs
 
-This repository contains basic Java programs focused on **if-else logic building**. These programs help in improving problem-solving skills and understanding conditional statements in Java.
+This repository contains Java programs focused on **logic building using if-else statements**. These programs help in improving problem-solving skills and are ideal for beginners.
 
 ---
 
-## 📂 Programs Included
+## 📂 Programs Included (In Sequence)
 
 ### 🔹 1. CharacterType.java
 
-Identifies whether a character is:
-
-* Uppercase
-* Lowercase
-* Digit
-* Special character
+Identifies whether a character is uppercase, lowercase, digit, or special character.
 
 ---
 
@@ -22,8 +17,8 @@ Identifies whether a character is:
 Implements FizzBuzz logic:
 
 * Divisible by both 3 and 5 → FizzBuzz
-* Only by 3 → Fizz
-* Only by 5 → Buzz
+* Divisible by 3 → Fizz
+* Divisible by 5 → Buzz
 
 ---
 
@@ -52,19 +47,19 @@ Assigns grades based on marks:
 
 ### 🔹 6. LargestOfThree.java
 
-Finds the largest among three numbers using if-else conditions.
+Finds the largest among three numbers.
 
 ---
 
 ### 🔹 7. LargestOfTwo.java
 
-Finds the largest between two numbers (handles equal case).
+Finds the largest between two numbers.
 
 ---
 
 ### 🔹 8. LeapYear.java
 
-Checks whether a given year is a leap year.
+Checks whether a year is a leap year.
 
 ---
 
@@ -76,7 +71,41 @@ Determines whether a number is positive, negative, or zero.
 
 ### 🔹 10. VoterEligibility.java
 
-Checks if a person is eligible to vote (age ≥ 18).
+Checks if a person is eligible to vote.
+
+---
+
+### 🔹 11. TriangleValid.java
+
+Checks whether three sides form a valid triangle.
+
+---
+
+### 🔹 12. Calculator.java
+
+Performs basic arithmetic operations (+, -, *, /) using if-else.
+
+---
+
+### 🔹 13. ProfitLoss.java
+
+Calculates profit or loss based on cost price and selling price.
+
+---
+
+### 🔹 14. ElectricityBill.java
+
+Calculates electricity bill based on unit consumption:
+
+* First 100 units → ₹5/unit
+* Next 100 units → ₹7/unit
+* Above 200 units → ₹10/unit
+
+---
+
+### 🔹 15. AbsoluteValue.java
+
+Finds the absolute value of a number.
 
 ---
 
@@ -88,28 +117,13 @@ Checks if a person is eligible to vote (age ≥ 18).
 
 ---
 
-## ▶️ How to Run
-
-### 1. Compile
-
-```bash
-javac FileName.java
-```
-
-### 2. Run
-
-```bash
-java FileName
-```
-
----
 
 ## 🎯 Learning Outcomes
 
 * Understanding if-else conditions
-* Strong logical thinking
-* Input handling using Scanner
-* Writing clean Java programs
+* Building strong logical thinking
+* Handling user input using Scanner
+* Writing clean and structured Java programs
 
 ---
 
@@ -119,4 +133,4 @@ java FileName
 
 ---
 
-⭐ *Consistent practice is the key to strong logic building.*
+⭐ *This repository reflects my journey of improving coding logic step by step.*
