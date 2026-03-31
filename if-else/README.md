@@ -4,7 +4,7 @@ This repository contains Java programs focused on **logic building using if-else
 
 ---
 
-## 📂 Programs Included
+## 📂 Programs Included 
 
 ### 🔹 1. CharacterType.java
 
@@ -36,12 +36,7 @@ Checks whether a number is even or odd.
 
 ### 🔹 5. Grade.java
 
-Assigns grades based on marks:
-
-* 90+ → A
-* 75–89 → B
-* 50–74 → C
-* Below 50 → Fail
+Assigns grades based on marks.
 
 ---
 
@@ -83,29 +78,61 @@ Checks whether three sides form a valid triangle.
 
 ### 🔹 12. Calculator.java
 
-Performs basic arithmetic operations (+, -, *, /) using if-else.
+Performs basic arithmetic operations (+, -, *, /).
 
 ---
 
 ### 🔹 13. ProfitLoss.java
 
-Calculates profit or loss based on cost price and selling price.
+Calculates profit or loss based on cost and selling price.
 
 ---
 
 ### 🔹 14. ElectricityBill.java
 
-Calculates electricity bill based on unit consumption:
-
-* First 100 units → ₹5/unit
-* Next 100 units → ₹7/unit
-* Above 200 units → ₹10/unit
+Calculates electricity bill based on unit consumption.
 
 ---
 
 ### 🔹 15. AbsoluteValue.java
 
 Finds the absolute value of a number.
+
+---
+
+### 🔹 16. MultipleCheck.java
+
+Checks if a number is divisible by 7 or 11.
+
+---
+
+### 🔹 17. PasswordStrength.java
+
+Checks password strength based on:
+
+* Minimum length (≥ 8)
+* Contains at least one digit
+
+---
+
+### 🔹 18. ATM.java
+
+Simulates ATM withdrawal with conditions:
+
+* Amount must be multiple of 100
+* Balance should be sufficient
+
+---
+
+### 🔹 19. DayOfWeek.java
+
+Prints day of the week based on input (1–7).
+
+---
+
+### 🔹 20. CenturyYear.java
+
+Checks whether a given year is a century year.
 
 ---
 
@@ -117,13 +144,12 @@ Finds the absolute value of a number.
 
 ---
 
-
 ## 🎯 Learning Outcomes
 
-* Understanding if-else conditions
-* Building strong logical thinking
-* Handling user input using Scanner
-* Writing clean and structured Java programs
+* Strong understanding of if-else conditions
+* Logical thinking and problem-solving
+* Input handling using Scanner
+* Writing clean and structured Java code
 
 ---
 
@@ -133,4 +159,4 @@ Finds the absolute value of a number.
 
 ---
 
-⭐ *This repository reflects my journey of improving coding logic step by step.*
+⭐ *Completed 20 logic-building programs using if-else — moving towards advanced topics 🚀*
