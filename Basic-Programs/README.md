@@ -21,6 +21,9 @@ This folder contains **basic Java programs** written for practicing fundamental 
 | LeapYear.java | Checks whether a year is leap year |
 | CountDigit.java | Counts number of digits |
 | Armstrong.java | Checks whether a number is Armstrong |
+| StrongNumber.java | Checks whether a number is strong number |
+| SwapNumbers.java | Swaps two numbers without third variable |
+| PerfectSquare.java | Checks whether a number is perfect square |
 
 ---
 
