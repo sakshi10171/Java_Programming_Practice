@@ -1,6 +1,6 @@
 //java program to print 1 to 10 numbers
 
-import java.util.Scanner;
+import java.io.*;
 
 public class OneToTen{
 
