@@ -60,7 +60,7 @@ Calculates the sum of digits of a number.
 
 ---
 
-### 🔹 10. PalindromeNumber.java
+### 🔹 10. Palindrome.java
 
 Checks whether a number is a palindrome.
 
