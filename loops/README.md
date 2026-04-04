@@ -1,10 +1,10 @@
 # 🔁 Java Loop Programs 
 
-This repository contains beginner-friendly Java programs focused on **loops*. These programs help in understanding repetition and improving logical thinking.
+This repository contains Java programs focused on **loops (for & while)** to build strong problem-solving and logical thinking skills.
 
 ---
 
-## 📂 Programs Included
+## 📂 Programs Included 
 
 ### 🔹 1. Print1To10.java
 
@@ -26,13 +26,43 @@ Prints all even numbers from 1 to 50.
 
 ### 🔹 4. SumOfN.java
 
-Calculates the sum of first N natural numbers using a loop.
+Calculates the sum of first N natural numbers.
 
 ---
 
 ### 🔹 5. MultiplicationTable.java
 
 Prints multiplication table of a given number.
+
+---
+
+### 🔹 6. Factorial.java
+
+Calculates factorial of a number using a loop.
+
+---
+
+### 🔹 7. ReverseNumber.java
+
+Reverses a given number.
+
+---
+
+### 🔹 8. DigitsInNumber.java
+
+Counts the number of digits in a number.
+
+---
+
+### 🔹 9. SumOfDigits.java
+
+Calculates the sum of digits of a number.
+
+---
+
+### 🔹 10. PalindromeNumber.java
+
+Checks whether a number is a palindrome.
 
 ---
 
@@ -44,21 +74,21 @@ Prints multiplication table of a given number.
 
 ---
 
-
 ## 🎯 Learning Outcomes
 
-* Understanding loops (for loop)
-* Repetition and iteration logic
-* Using counters and accumulators
-* Writing efficient Java programs
+* Understanding loops (for, while)
+* Iteration and repetition logic
+* Number manipulation using `%` and `/`
+* Writing optimized and clean Java code
 
 ---
 
 ## 📚 Next Step
 
+* Pattern Programs ⭐
 * Nested loops
-* Pattern programs
-* While & do-while loops
+* While vs do-while
+* Arrays
 
 ---
 
@@ -68,4 +98,4 @@ Prints multiplication table of a given number.
 
 ---
 
-⭐ *Practicing loops to strengthen problem-solving skills 🚀*
+
