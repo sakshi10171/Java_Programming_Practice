@@ -1,14 +1,12 @@
-# ⭐ Java Pattern Programs 
+# ⭐ Java Pattern Programs
 
-This repository contains beginner-friendly Java programs focused on **pattern printing using loops**. These programs help in understanding nested loops and improving logical thinking.
+This repository contains Java programs focused on **pattern printing using loops**. These programs help in understanding nested loops, improving logical thinking, and preparing for coding interviews.
 
 ---
 
-## 📂 Programs Included 
+## 📂 Programs Included
 
-### 🔹 1. RightTriangleStar.java (Right Triangle Star)
-
-Prints a right triangle star pattern:
+### 🔹 1. Pattern1.java (Right Triangle Star)
 
 ```
 *
@@ -22,8 +20,6 @@ Prints a right triangle star pattern:
 
 ### 🔹 2. InvertedTriangle.java
 
-Prints an inverted triangle pattern:
-
 ```
 *****
 ****
@@ -35,8 +31,6 @@ Prints an inverted triangle pattern:
 ---
 
 ### 🔹 3. NumberTriangle.java
-
-Prints increasing number pattern:
 
 ```
 1
@@ -50,8 +44,6 @@ Prints increasing number pattern:
 
 ### 🔹 4. SameNumberTriangle.java
 
-Prints same number in each row:
-
 ```
 1
 22
@@ -64,8 +56,6 @@ Prints same number in each row:
 
 ### 🔹 5. ReverseNumberPattern.java
 
-Prints decreasing number pattern:
-
 ```
 12345
 1234
@@ -76,27 +66,81 @@ Prints decreasing number pattern:
 
 ---
 
-## 🚀 Technologies Used
+### 🔹 6. PyramidPattern.java
 
-* ☕ Java
-* 💻 VS Code / Online Compiler
-* 🖥️ Command Line
+```
+    *
+   ***
+  *****
+ *******
+*********
+```
+
+---
+
+### 🔹 7. InvertedPyramid.java
+
+```
+*********
+ *******
+  *****
+   ***
+    *
+```
+
+---
+
+### 🔹 8. RightAlignedTriangle.java
+
+```
+    *
+   **
+  ***
+ ****
+*****
+```
+
+---
+
+### 🔹 9. NumberPyramid.java
+
+```
+    1
+   1 2
+  1 2 3
+ 1 2 3 4
+1 2 3 4 5
+```
+
+---
+
+### 🔹 10. FloydTriangle.java
+
+```
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+```
 
 ---
 
 ## 🎯 Learning Outcomes
 
 * Understanding nested loops
-* Pattern logic (rows & columns)
-* Printing structured outputs
-* Improving problem-solving skills
+* Row and column logic
+* Space + pattern alignment
+* Number pattern logic
+* Strong problem-solving skills
 
 ---
-
 
 
 ## ✨ Author
 
 **Sakshi Babar**
+
+---
 
 
