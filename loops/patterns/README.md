@@ -6,7 +6,7 @@ This repository contains Java programs focused on **pattern printing using loops
 
 ## 📂 Programs Included 
 
-### 🔹 1. Pattern1.java 
+### 🔹 1. RightTriangleStar.java 
 
 ```
 *
