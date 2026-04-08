@@ -4,9 +4,9 @@ This repository contains Java programs focused on **pattern printing using loops
 
 ---
 
-## 📂 Programs Included
+## 📂 Programs Included 
 
-### 🔹 1. RightTriangleStar.java 
+### 🔹 1. Pattern1.java 
 
 ```
 *
@@ -126,21 +126,41 @@ This repository contains Java programs focused on **pattern printing using loops
 
 ---
 
+### 🔹 11. DiamondPattern.java ⭐
+
+```
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+```
+
+---
+
+## 🚀 Technologies Used
+
+* ☕ Java
+* 💻 VS Code / Online Compiler
+* 🖥️ Command Line
+
+---
+
+
 ## 🎯 Learning Outcomes
 
 * Understanding nested loops
 * Row and column logic
 * Space + pattern alignment
-* Number pattern logic
+* Pattern symmetry (Diamond)
 * Strong problem-solving skills
-
----
 
 
 ## ✨ Author
 
 **Sakshi Babar**
-
----
-
 
