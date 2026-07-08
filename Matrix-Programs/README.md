@@ -16,6 +16,8 @@ This folder contains basic and commonly asked **Matrix Programs** implemented in
 | 8 | UpperTriangle.java | Displays the upper triangular elements of a matrix. |
 | 9 | LowerTriangle.java | Displays the lower triangular elements of a matrix. |
 | 10 | RowSum.java | Calculates the sum of each row in a matrix. |
+| 11 | ColumnSum.java | Calculates the sum of each column in a matrix. |
+| 12 | LargestElementMatrix.java | Finds the largest element in a matrix. |
 
 ## Concepts Covered
 
@@ -30,14 +32,6 @@ This folder contains basic and commonly asked **Matrix Programs** implemented in
 - Symmetric Matrix
 - Upper and Lower Triangular Matrix
 - Row-wise Computation
+- Column-wise Computation
+- Finding Maximum Element
 - User Input using Scanner
-
-
-
-
-
-
-
----
-
-⭐ This folder is part of the **Java Programming Practice** repository and will be updated with more matrix-based coding problems over time.
