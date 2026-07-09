@@ -18,6 +18,9 @@ This folder contains basic and commonly asked **Matrix Programs** implemented in
 | 10 | RowSum.java | Calculates the sum of each row in a matrix. |
 | 11 | ColumnSum.java | Calculates the sum of each column in a matrix. |
 | 12 | LargestElementMatrix.java | Finds the largest element in a matrix. |
+| 13 | SmallestElementMatrix.java | Finds the smallest element in a matrix. |
+| 14 | BoundaryElements.java | Displays only the boundary elements of a matrix. |
+| 15 | MatrixTrace.java | Calculates the trace (sum of the primary diagonal) of a square matrix. |
 
 ## Concepts Covered
 
@@ -28,10 +31,16 @@ This folder contains basic and commonly asked **Matrix Programs** implemented in
 - Matrix Multiplication
 - Matrix Transpose
 - Diagonal Traversal
+- Matrix Trace
 - Identity Matrix
 - Symmetric Matrix
-- Upper and Lower Triangular Matrix
+- Upper Triangular Matrix
+- Lower Triangular Matrix
+- Boundary Elements
 - Row-wise Computation
 - Column-wise Computation
 - Finding Maximum Element
+- Finding Minimum Element
 - User Input using Scanner
+
+
