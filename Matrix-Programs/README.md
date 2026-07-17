@@ -21,6 +21,7 @@ This folder contains basic and commonly asked **Matrix Programs** implemented in
 | 13 | SmallestElementMatrix.java | Finds the smallest element in a matrix. |
 | 14 | BoundaryElements.java | Displays only the boundary elements of a matrix. |
 | 15 | MatrixTrace.java | Calculates the trace (sum of the primary diagonal) of a square matrix. |
+| 16 | SearchElementInMatrix.java | Display the searched element from matrix |
 
 ## Concepts Covered
 
